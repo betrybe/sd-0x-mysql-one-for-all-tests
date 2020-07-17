@@ -1,1 +1,0 @@
-# sd-0x-mysql-one-for-all-tests
